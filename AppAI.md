@@ -8,3 +8,18 @@
 
 Machine learning --> Deep Learning --> Generative AI
 
+## GenAI
+
+### Text
+- ChatGPT
+- Grok
+- Gemini
+- Claude
+
+### Image
+- MidJoruny
+
+### MultiModal
+Text , Image, Audio, Video
+
+
