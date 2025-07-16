@@ -84,3 +84,32 @@ eraser.io  (mind map / architecutres)
 notebooklm  (podcast/questions/conversional)
 
 Manish_wtai (youtube)
+
+# Automation
+District by zomato
+RPA - Robotic Process Automation 
+
+CrewAI
+Replit
+WisperFlow
+
+######
+Jbs:
+
+BrowserUse.ai
+(Github / playwright)
+
+https://manish-ai.notion.site/Mastering-AI-Powered-Development-A-Deep-Dive-into-Prompt-Engineering-for-Vo-Lovable-dev-Replit-a-1fb32b43b76f8043a551fcc36e612b18
+
+####
+Replit (fullstack capable)
+
+extract
+eraiser
+
+Genspark
+    manus
+    chronicle hq  (Create presentations)
+        Gama    (tool for presentaitons)
+
+    Perplexity  (like lovable + info)
